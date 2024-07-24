@@ -4,6 +4,8 @@ Futuros Ingenieros WRO 2024
 
 Panamá, Distrito de Capira
 
+Club de Robotica IPT Capira
+
 Equipo BETAS
 ![Logo](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Logo-BETAS.jpg)
 
