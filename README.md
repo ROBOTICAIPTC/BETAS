@@ -22,8 +22,36 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 ## Contenido
 
 * `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
+
+
+![formal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/formal.jpg)
+
+De derecha a izquierda
+- Roderick Zamora
+- Sol Urieta
+- José Bernal
+
+![funny](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/funny.jpg)
+
+De derecha a izquierda
+- Sol Urieta
+- Roderick Zamora
+- José Bernal
+
+
+![W1](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working.jpg)
+
+![W2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-1.jpg)
+
+![W3](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-2.jpg)
+
 * `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
+
+Desafio Abierto:
+https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
+
+
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
 * `models` es para los archivos de modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
