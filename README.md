@@ -1,4 +1,19 @@
 Manual de ingeniería
+
+Futuros Ingenieros WRO 2024
+
+Panamá, Distrito de Capira
+
+Equipo BETAS
+![Logo](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Logo-BETAS.jpg)
+
+Integrantes
+- Sol Urieta
+- Jose Bernal
+- Roderick Zamora
+
+
+
 ====
 
 Este repositorio contiene el manual de ingeniería de un modelo de vehículo autónomo que participará en la competencia WRO Future Engineers en la temporada 2024.
