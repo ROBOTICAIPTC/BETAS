@@ -15,7 +15,6 @@ Integrantes
 - Roderick Zamora
 
 
-
 ====
 
 Este repositorio contiene el manual de ingeniería de un modelo de vehículo autónomo que participará en la competencia WRO Future Engineers en la temporada 2024.
