@@ -16,7 +16,7 @@ This directory must contain 6 photos of the vehicle (from every side, from top a
 ![dd](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
 
 - Lado derecho
-![d](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
+![d](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/d.jpg)
 
 - Lado diagonal izquierdo
 ![di](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/di.jpg)
