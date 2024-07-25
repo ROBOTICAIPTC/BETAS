@@ -1,8 +1,6 @@
 Otros
 ====
 
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-
 #### Consideraciones Importantes: Hallazgos, problemas y Resultados
 
 Mientras construíamos y programábamos el robot, se nos presentaron varias dificultades que afectaron nuestros resultados. Reconocemos que hubo dificultades significativas, pero hemos logrado aprender  lecciones valiosas de cada obstáculo encontrado.

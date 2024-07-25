@@ -89,6 +89,7 @@ https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
 
 
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+
 ![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-24%20230337.png)
 ![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-24%20233332.png)
 ![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Slide.1.JPG)
