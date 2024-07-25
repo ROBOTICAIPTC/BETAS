@@ -84,8 +84,13 @@ De derecha a izquierda, Sol Urieta, Roderick Zamora, José Bernal
 
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
 
-Desafio Abierto:
+- Desafio Abierto:
+
 https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
+
+- Desafio Random
+
+![random](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Wheelie.gif)
 
 
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
