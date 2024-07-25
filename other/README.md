@@ -7,7 +7,7 @@ Mientras construíamos y programábamos el robot, se nos presentaron varias difi
 
 #### Hallazgos y Problemas:
 - se nos presentaron varias dificultades con que el manejo de las direccionales no funcionaba como esperábamos y los engranajes del robot se desencajaban. Con esfuerzo y perseverancia, hemos conseguido mejorar estas áreas de manera considerable.
-- En la programación, enfrentamos dificultades con los sensores de colores. A pesar de haber desarrollado un programas inicialmente que era efectivos, lamentablemente perdimos uno de ellos por un incidente inesperado (un integrante lo borro) . No obstante, nos hemos logrado reconstruirlo y estamos avanzando para optimizar su funcionamiento en la pista.
+- En la programación, enfrentamos dificultades con los sensores de colores. A pesar de haber desarrollado un programas inicialmente que era efectivos, lamentablemente perdimos uno de ellos por un incidente inesperado. No obstante, nos hemos logrado reconstruirlo y estamos avanzando para optimizar su funcionamiento en la pista.
 
 #### Recomendaciones:
 1. Documentación Detallada: Es esencial mantener registros sobre cada desafío encontrado y de las soluciones implementadas para guiar futuros desarrollos y ajustes.
