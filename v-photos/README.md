@@ -22,7 +22,7 @@ This directory must contain 6 photos of the vehicle (from every side, from top a
 ![di](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/di.jpg)
 
 - Lado izquierdo
-![i](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
+![i](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/i.jpg)
 
 - Armando la base
 ![armado-base](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base.jpg)
@@ -31,7 +31,7 @@ This directory must contain 6 photos of the vehicle (from every side, from top a
 ![armado-base-2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base-2.jpg)
 
 - Armando la base, parte inferior
-![armado-base-inferior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base-inferior.jpg)
+![armado-base-inferior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-inferior.jpg)
 
 - Armado de sistema de tracción
 ![traccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/traccion.jpg)

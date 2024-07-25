@@ -23,7 +23,6 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 
 * `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
 
-
 ![formal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/formal.jpg)
 
 De derecha a izquierda
@@ -38,7 +37,6 @@ De derecha a izquierda
 - Roderick Zamora
 - José Bernal
 
-
 ![W1](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working.jpg)
 
 ![W2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-1.jpg)
@@ -46,6 +44,44 @@ De derecha a izquierda
 ![W3](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-2.jpg)
 
 * `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
+
+
+- Superior
+![superior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
+
+- Superior Frontal
+![superiorfrontal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/sf.jpg)
+
+- Superior Posterior
+![superiorposterior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/sp.jpg)
+
+- Lado diagonal derecho
+![dd](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
+
+- Lado derecho
+![d](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
+
+- Lado diagonal izquierdo
+![di](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/di.jpg)
+
+- Lado izquierdo
+![i](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/i.jpg)
+
+- Armando la base
+![armado-base](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base.jpg)
+
+- Armando la base
+![armado-base-2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base-2.jpg)
+
+- Armando la base, parte inferior
+![armado-base-inferior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-inferior.jpg)
+
+- Armado de sistema de tracción
+![traccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/traccion.jpg)
+
+- Armado de sistema de dirección
+![direccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/direccion.jpg)
+
 * `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
 
 Desafio Abierto:
