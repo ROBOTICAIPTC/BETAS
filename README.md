@@ -136,8 +136,38 @@ Consideraciones Educativas
 
 
 * `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
+
+La programación empieza con el evento cuando inicie el programa, se agrega de la sección de motores ajustar velocidad en un 80% de gran motor angular y de esta misma sección encender moto en sentido horario del gran motor angular. 
+
+De la sección de eventos se agrega: sensor de distancia cuando esté a menos de 65cm, de los motores detener motor el gran motor angular, ajustar la velocidad en 50% de gran motor angular ,la sección de control se agrega esperar por 0.3 segundos se agrega encender motor  el gran motor angular luego esperar 0.3 segundo se agrega de la sección de motores hacer funcionar el motor angular en sentido horario durante una rotación, esperar 0.3 segundos, ajustar velocidad del motor gran angular a 100% hacer funcionar el motor angular en sentido anti horario durante 45 grados, esperar 0.3 segundos y encender gran motor angular 
+
 * `models` es para los archivos de modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
 * `other` es para otros archivos que pueden usarse para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+
+Otros
+====
+
+This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
+
+#### Consideraciones Importantes: Hallazgos, problemas y Resultados
+
+Mientras construíamos y programábamos el robot, se nos presentaron varias dificultades que afectaron nuestros resultados. Reconocemos que hubo dificultades significativas, pero hemos logrado aprender  lecciones valiosas de cada obstáculo encontrado.
+
+#### Hallazgos y Problemas:
+- se nos presentaron varias dificultades con que el manejo de las direccionales no funcionaba como esperábamos y los engranajes del robot se desencajaban. Con esfuerzo y perseverancia, hemos conseguido mejorar estas áreas de manera considerable.
+- En la programación, enfrentamos dificultades con los sensores de colores. A pesar de haber desarrollado un programas inicialmente que era efectivos, lamentablemente perdimos uno de ellos por un incidente inesperado (un integrante lo borro) . No obstante, nos hemos logrado reconstruirlo y estamos avanzando para optimizar su funcionamiento en la pista.
+
+#### Recomendaciones:
+1. Documentación Detallada: Es esencial mantener registros sobre cada desafío encontrado y de las soluciones implementadas para guiar futuros desarrollos y ajustes.
+   
+2. Enfoque en Mejoras Continuas: Cada dificultad experimentada debe ser vista como una oportunidad para aprender y perfeccionar tanto el diseño como la programación del robot.
+   
+3. Comunicación Clara y Efectiva: Al presentar los resultados, es crucial destacar cómo cada desafío ha sido superado y cómo estos avances contribuyen al avance del proyecto en su conjunto.
+   
+4. Reconocimiento de Logros: Celebrar cada logro, por pequeño que sea, fortalece el ánimo del equipo y fomenta un ambiente positivo y productivo.
+
+Estos pasos nos ayudan a ser más efectivos como equipo y también nos ayuda a mejorar el robot.
+
 
 ## Introducción
 
