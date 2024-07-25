@@ -7,6 +7,7 @@ Panamá, Distrito de Capira
 Club de Robotica IPT Capira
 
 Equipo BETAS
+
 ![Logo](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Logo-BETAS.jpg)
 
 Integrantes
@@ -23,24 +24,23 @@ Este repositorio contiene el manual de ingeniería de un modelo de vehículo aut
 
 * `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
 
+- Foto formal
 ![formal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/formal.jpg)
 
-De derecha a izquierda
-- Roderick Zamora
-- Sol Urieta
-- José Bernal
+De derecha a izquierda, Roderick Zamora, Sol Urieta, José Bernal
 
+- Foto divertida
 ![funny](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/funny.jpg)
 
-De derecha a izquierda
-- Sol Urieta
-- Roderick Zamora
-- José Bernal
+De derecha a izquierda, Sol Urieta, Roderick Zamora, José Bernal
 
+- Ajustes de las ruedas
 ![W1](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working.jpg)
 
+- Verificación del robot, y la programación
 ![W2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-1.jpg)
 
+- Programando
 ![W3](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-2.jpg)
 
 * `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
@@ -90,48 +90,82 @@ https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
 
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
 
-
 Estamos trabajando con un kit de LEGO Spike Prime, el cual generalmente se encuentra en el rango de 330-400$$ USD. Es recomendable verificar con distribuidores oficiales de LEGO Education o tiendas en línea acreditadas para obtener el precio más actual y exacto.
 
 #### LEGO Spike Prime Hub | Datos técnicos
 •	Voltaje Nominal: 7.4V
+
 •	Capacidad de la Batería: 2100 mAh (miliamperios-hora), batería de iones de litio recargable
+
 •	Procesador: ARM Cortex-M4
+
 •	Memoria: 32 MB de almacenamiento, 1 MB de RAM
+
 •	Conectividad: Bluetooth, USB
+
 •	Puertos: 6 puertos de entrada/salida para conectar motores y sensores
+
 •	Pantalla: Matriz LED de 5x5
+
 •	Sensores Integrados: Giroscopio y acelerómetro
 
 ##### Motores
 •	Motor Gran Angular:
+
 o	Característica Principal: Alto torque para tracción
+
 o	Conexión: Compatible con los puertos del Hub
+
 o	Funciones: Control de velocidad y dirección
+
+
 •	Motor Angular:
+
 o	Característica Principal: Precisión en el control de dirección
+
 o	Conexión: Compatible con los puertos del Hub
+
 o	Funciones: Control preciso del ángulo de giro
 
 ##### Sensores
 •	Sensor de Distancia:
+
 o	Tecnología: Ultrasonido
+
 o	Función: Medición de distancia y detección de obstáculos
+
 o	Rango: Hasta 200 cm
+
+
 •	Sensores de Color:
+
 o	Función: Detección de colores y seguimiento de líneas
+
 o	Posicionamiento: Puede ser colocado en diferentes partes del robot según la necesidad del proyecto
+
+
 Software
+
 •	Entorno de Programación: Basado en bloques, compatible con Python
+
 •	Conectividad: Aplicación Spike Prime disponible para computadoras y tablets
+
 •	Características: Interfaz intuitiva para programación y control del robot, posibilidad de guardar y compartir programas
+
+
 Estructura y Piezas
+
 •	Bloques de Construcción: Diversas piezas LEGO Technic para ensamblar la estructura del robot
+
 •	Conectores y Ejes: Para asegurar una construcción robusta y flexible
+
 •	Manual de Instrucciones: Guía paso a paso para ensamblar varios modelos de robots y proyectos
 Consideraciones Educativas
+
 •	Objetivos de Aprendizaje: Fomentar habilidades en STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)
+
 •	Nivel Educativo: Diseñado para estudiantes de primaria y secundaria
+
 •	Proyectos Incluidos: Varios proyectos predefinidos y actividades para desarrollar habilidades de resolución de problemas, pensamiento crítico y colaboración
 
 
@@ -139,15 +173,12 @@ Consideraciones Educativas
 
 La programación empieza con el evento cuando inicie el programa, se agrega de la sección de motores ajustar velocidad en un 80% de gran motor angular y de esta misma sección encender moto en sentido horario del gran motor angular. 
 
+
 De la sección de eventos se agrega: sensor de distancia cuando esté a menos de 65cm, de los motores detener motor el gran motor angular, ajustar la velocidad en 50% de gran motor angular ,la sección de control se agrega esperar por 0.3 segundos se agrega encender motor  el gran motor angular luego esperar 0.3 segundo se agrega de la sección de motores hacer funcionar el motor angular en sentido horario durante una rotación, esperar 0.3 segundos, ajustar velocidad del motor gran angular a 100% hacer funcionar el motor angular en sentido anti horario durante 45 grados, esperar 0.3 segundos y encender gran motor angular 
 
 * `models` es para los archivos de modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+
 * `other` es para otros archivos que pueden usarse para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
-
-Otros
-====
-
-This directory must contain one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
 
 #### Consideraciones Importantes: Hallazgos, problemas y Resultados
 
@@ -167,8 +198,3 @@ Mientras construíamos y programábamos el robot, se nos presentaron varias difi
 4. Reconocimiento de Logros: Celebrar cada logro, por pequeño que sea, fortalece el ánimo del equipo y fomenta un ambiente positivo y productivo.
 
 Estos pasos nos ayudan a ser más efectivos como equipo y también nos ayuda a mejorar el robot.
-
-
-## Introducción
-
-_Esta parte debe ser completada por los participantes con las aclaraciones técnicas sobre el código: en qué módulos consta el código, cómo se relacionan con los componentes electromecánicos del vehículo y cuál es el proceso para construir/compilar/cargar el código en el sistema del vehículo. controladores._
