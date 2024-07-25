@@ -89,7 +89,7 @@ https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
 
 
 * `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
-schemes/Captura de pantalla 2024-07-24 230337.png
+
 
 Estamos trabajando con un kit de LEGO Spike Prime, el cual generalmente se encuentra en el rango de 330-400$$ USD. Es recomendable verificar con distribuidores oficiales de LEGO Education o tiendas en línea acreditadas para obtener el precio más actual y exacto.
 
