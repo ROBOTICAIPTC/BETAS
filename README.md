@@ -75,134 +75,136 @@ From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 - Assembling the base, lower part assembly-base-bottom
 ![Assembling the base, lower part assembly-base-bottom](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-inferior.jpg)
 
-- Armado de sistema de tracción
+- Traction system assembly
 ![traccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/traccion.jpg)
 
-- Armado de sistema de dirección
+ - Steering system assembly
 ![direccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/direccion.jpg)
 
-* `video` contiene el archivo video.md con el enlace a un video donde existe una demostración de manejo
+* `video` Video contains the video.md file with the link to a driving demonstration video
 
-- Desafio Abierto:
+- Open Challenge: 
 
 https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
 
-- Desafio Random
+- Random Challenge
 
 ![random](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Wheelie.gif)
 
 
-* `schemes` contiene uno o varios diagramas esquemáticos en formato JPEG, PNG o PDF de los componentes electromecánicos que ilustran todos los elementos (componentes electrónicos y motores) utilizados en el vehículo y cómo se conectan entre sí.
+* `schemes` Schemes contains one or more schematic diagrams in JPEG, PNG or PDF format of the electromechanical components that illustrate all the elements (electronic components and engines) used in the vehicle and how they connect to each other.
 
-![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-24%20230337.png)
-![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085829.png)
-![DIAGRAMA](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085837.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-24%20230337.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085829.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085837.png)
 
-Estamos trabajando con un kit de LEGO Spike Prime, el cual generalmente se encuentra en el rango de 330-400$$ USD. Es recomendable verificar con distribuidores oficiales de LEGO Education o tiendas en línea acreditadas para obtener el precio más actual y exacto.
+We are working with a LEGO Spike Prime kit, which It is generally in the range of 330-400$$ USD. It is advisable to check with official LEGO Education distributors or reputable online stores to get the most current and accurate price.
 
-#### LEGO Spike Prime Hub | Datos técnicos
-•	Voltaje Nominal: 7.4V
+#### LEGO Spike Prime Hub | Technical data
+•	Nominal Voltage: 7.4V
 
-•	Capacidad de la Batería: 2100 mAh (miliamperios-hora), batería de iones de litio recargable
+•	Battery Capacity: 2100 mAh (milliampere-hour), battery Rechargeable lithium ion
 
-•	Procesador: ARM Cortex-M4
+•	CPU: ARM Cortex-M4
 
-•	Memoria: 32 MB de almacenamiento, 1 MB de RAM
+•	Memory: 32 MB storage, 1 MB RAM
 
-•	Conectividad: Bluetooth, USB
+•	Connectivity: Bluetooth, USB
 
-•	Puertos: 6 puertos de entrada/salida para conectar motores y sensores
+•	Ports: 6 input/output ports to connect motors and sensors
 
-•	Pantalla: Matriz LED de 5x5
+•	Screen: 5x5 LED matrix
 
-•	Sensores Integrados: Giroscopio y acelerómetro
+•	Integrated Sensors: Gyroscope and accelerometer
 
-##### Motores
-•	Motor Gran Angular:
+##### Engines
+•	Wide Angle Motor:
 
-o	Característica Principal: Alto torque para tracción
+o	Main Feature: High torque for traction
 
-o	Conexión: Compatible con los puertos del Hub
+o	Connection: Compatible with Hub ports
 
-o	Funciones: Control de velocidad y dirección
-
-
-•	Motor Angular:
-
-o	Característica Principal: Precisión en el control de dirección
-
-o	Conexión: Compatible con los puertos del Hub
-
-o	Funciones: Control preciso del ángulo de giro
-
-##### Sensores
-•	Sensor de Distancia:
-
-o	Tecnología: Ultrasonido
-
-o	Función: Medición de distancia y detección de obstáculos
-
-o	Rango: Hasta 200 cm
+o	Functions: Speed and direction control
 
 
-•	Sensores de Color:
+•	Angular Motor:
 
-o	Función: Detección de colores y seguimiento de líneas
+o Main Feature: Precision steering control
 
-o	Posicionamiento: Puede ser colocado en diferentes partes del robot según la necesidad del proyecto
+o	Connection: Compatible with Hub ports
+
+o	Functions: Precise steering angle control
+
+##### Sensors
+•	Distance Sensor:
+
+o	Technology: Ultrasound
+
+o	Function: Distance measurement and obstacle detection
+
+o	Range: Up to 200cm
+
+
+•	Color Sensors:
+
+o	Function: Color detection and line tracking
+
+o	Positioning: Can be placed in different parts of the robot 
+According to the need of the project
 
 
 Software
 
-•	Entorno de Programación: Basado en bloques, compatible con Python
+•	Programming Environment: Block-based, Python compatible
 
-•	Conectividad: Aplicación Spike Prime disponible para computadoras y tablets
+•	Connectivity: Spike Prime app available for computers and tablets
 
-•	Características: Interfaz intuitiva para programación y control del robot, posibilidad de guardar y compartir programas
-
-
-Estructura y Piezas
-
-•	Bloques de Construcción: Diversas piezas LEGO Technic para ensamblar la estructura del robot
-
-•	Conectores y Ejes: Para asegurar una construcción robusta y flexible
-
-•	Manual de Instrucciones: Guía paso a paso para ensamblar varios modelos de robots y proyectos
-Consideraciones Educativas
-
-•	Objetivos de Aprendizaje: Fomentar habilidades en STEM (Ciencia, Tecnología, Ingeniería y Matemáticas)
-
-•	Nivel Educativo: Diseñado para estudiantes de primaria y secundaria
-
-•	Proyectos Incluidos: Varios proyectos predefinidos y actividades para desarrollar habilidades de resolución de problemas, pensamiento crítico y colaboración
+•	Features: Intuitive interface for programming and controlling the robot, ability to save and share programs
 
 
-* `src` contiene código de software de control para todos los componentes que fueron programados para participar en la competencia
+Structure and Parts
 
-La programación empieza con el evento cuando inicie el programa, se agrega de la sección de motores ajustar velocidad en un 80% de gran motor angular y de esta misma sección encender moto en sentido horario del gran motor angular. 
+Building Blocks: Various LEGO Technic pieces to assemble the robot structure
+
+•	Connectors and Shafts: To ensure a robust and flexible construction
+
+•	Instruction Manual: Step-by-step guide to assembling various robot models and projects Educational Considerations
+
+•	Learning Objectives: Promote skills in STEM (Science, Technology, Engineering and Mathematics)
+
+•	Educational Level: Designed for primary and secondary school students
+
+•	Projects Included: Various predefined projects and activities to develop problem-solving, critical thinking, and collaboration skills
 
 
-De la sección de eventos se agrega: sensor de distancia cuando esté a menos de 65cm, de los motores detener motor el gran motor angular, ajustar la velocidad en 50% de gran motor angular ,la sección de control se agrega esperar por 0.3 segundos se agrega encender motor  el gran motor angular luego esperar 0.3 segundo se agrega de la sección de motores hacer funcionar el motor angular en sentido horario durante una rotación, esperar 0.3 segundos, ajustar velocidad del motor gran angular a 100% hacer funcionar el motor angular en sentido anti horario durante 45 grados, esperar 0.3 segundos y encender gran motor angular 
+* `src` Src contains control software code for all components that were programmed to participate in the competition
+  
+The programming begins with the event when the program starts, it is added to the motor section to adjust speed by 80% of the wide angle motor and from this same section to turn on the motorcycle clockwise of the wide angle motor.L
 
-* `models` es para los archivos de modelos utilizados por impresoras 3D, máquinas de corte por láser y máquinas CNC para producir los elementos del vehículo. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
 
-* `other` es para otros archivos que pueden usarse para entender cómo preparar el vehículo para la competencia. Puede incluir documentación sobre cómo conectarse a un SBC/SBM y cargar archivos allí, conjuntos de datos, especificaciones de hardware, descripciones de protocolos de comunicación, etc. Si no hay nada que agregar a esta ubicación, se puede eliminar el directorio.
+From the events section it is added: distance sensor when it is less than 65cm, from the motors stop the wide angle motor, adjust the speed to 50% wide angle motor, the control section is added wait for 0.3 seconds. Add turning on the wide angle motor motor then wait 0.3 second add from the motor section run the wide angle motor clockwise for one rotation, wait 0.3 seconds, adjust wide angle motor speed to 100% run the wide angle motor clockwise counterclockwise for 45 degrees, wait 0.3 seconds and turn on wide angle motor
 
-#### Consideraciones Importantes: Hallazgos, problemas y Resultados
+Models is for model files used by 3D printers, laser cutting machines and CNC machines to produce vehicle elements. If there is nothing to add to this location, the directory can be deleted.
 
-Mientras construíamos y programábamos el robot, se nos presentaron varias dificultades que afectaron nuestros resultados. Reconocemos que hubo dificultades significativas, pero hemos logrado aprender  lecciones valiosas de cada obstáculo encontrado.
 
-#### Hallazgos y Problemas:
-- se nos presentaron varias dificultades con que el manejo de las direccionales no funcionaba como esperábamos y los engranajes del robot se desencajaban. Con esfuerzo y perseverancia, hemos conseguido mejorar estas áreas de manera considerable.
-- En la programación, enfrentamos dificultades con los sensores de colores. A pesar de haber desarrollado un programas inicialmente que era efectivos, lamentablemente perdimos uno de ellos por un incidente inesperado. No obstante, nos hemos logrado reconstruirlo y estamos avanzando para optimizar su funcionamiento en la pista.
+* `models` Other is for other files that can be used to understand how to prepare the vehicle for competition. It may include documentation on how to connect to an SBC/SBM and upload files there, data sets, hardware specifications, communication protocol descriptions, etc. If there is nothing to add to this location, the directory can be deleted.
 
-#### Recomendaciones:
-1. Documentación Detallada: Es esencial mantener registros sobre cada desafío encontrado y de las soluciones implementadas para guiar futuros desarrollos y ajustes.
+* `other` Important Considerations: Findings, Problems and Results While building and programming the robot, we encountered several difficulties that affected our results. We recognize that there were significant difficulties, but we have managed to learn valuable lessons from each obstacle encountered.
+
+#### Findings and Problems:
+
+We encountered several difficulties in which the control of the turn signals did not work as we expected and the robot’s gears dislodged. With effort and perseverance, we have managed to improve these areas considerably.
+
+#### Findings and Problems:
+- In programming, we faced difficulties with color sensors. Despite having initially developed programs that were effective, unfortunately we lost one of them due to an unexpected incident. However, we have managed to rebuild it and are making progress to optimize its operation on the track.
+
+#### Recommendations:
+1. Detailed Documentation: It is essential to keep records of each challenge encountered and the solutions implemented to guide future developments and adjustments.
+
+2. Focus on Continuous Improvements: Each difficulty experienced should be seen as an opportunity to learn and perfect both the design and programming of the robot.
+
+3. Clear and Effective Communication: When presenting the results, it is crucial to highlight how each challenge has been overcome and how these advances contribute to the advancement of the project as a whole.
    
-2. Enfoque en Mejoras Continuas: Cada dificultad experimentada debe ser vista como una oportunidad para aprender y perfeccionar tanto el diseño como la programación del robot.
-   
-3. Comunicación Clara y Efectiva: Al presentar los resultados, es crucial destacar cómo cada desafío ha sido superado y cómo estos avances contribuyen al avance del proyecto en su conjunto.
-   
-4. Reconocimiento de Logros: Celebrar cada logro, por pequeño que sea, fortalece el ánimo del equipo y fomenta un ambiente positivo y productivo.
+4. Recognition of Achievements: Celebrating every achievement, no matter how small, strengthens team morale and fosters a positive and productive environment.
 
-Estos pasos nos ayudan a ser más efectivos como equipo y también nos ayuda a mejorar el robot.
+These steps help us be more effective as a team and also help us improve the robot.
