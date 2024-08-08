@@ -94,9 +94,9 @@ https://youtu.be/9Tzw0ZnRUY0?si=UGhT4n0KG4pu0JjZ
 
 * `schemes` Schemes contains one or more schematic diagrams in JPEG, PNG or PDF format of the electromechanical components that illustrate all the elements (electronic components and engines) used in the vehicle and how they connect to each other.
 
-![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-24%20230337.png)
-![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085829.png)
-![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-07-25%20085837.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-08-08%20145812.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-08-08%20145848.png)
+![Diagram](https://github.com/ROBOTICAIPTC/BETAS/blob/main/schemes/Captura%20de%20pantalla%202024-08-08%20145854.png)
 
 We are working with a LEGO Spike Prime kit, which It is generally in the range of 330-400$$ USD. It is advisable to check with official LEGO Education distributors or reputable online stores to get the most current and accurate price.
 
