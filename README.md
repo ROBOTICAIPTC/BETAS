@@ -1,16 +1,16 @@
-Manual de ingeniería
+Engineering manual
 
-Futuros Ingenieros WRO 2024
+Future Engineers WRO 2024
 
-Panamá, Distrito de Capira
+Panama, Capira District
 
-Club de Robotica IPT Capira
+Robotics club IPT Capira
 
-Equipo BETAS
+BETAS Team
 
 ![Logo](https://github.com/ROBOTICAIPTC/BETAS/blob/main/other/Logo-BETAS.jpg)
 
-Integrantes
+Members
 - Sol Urieta
 - Jose Bernal
 - Roderick Zamora
@@ -18,34 +18,33 @@ Integrantes
 
 ====
 
-Este repositorio contiene el manual de ingeniería de un modelo de vehículo autónomo que participará en la competencia WRO Future Engineers en la temporada 2024.
+This repository contains the engineering manual for an autonomous vehicle model that will participate in the WRO Future Engineers competition in the 2024 season.
 
-## Contenido
+## Content
 
-* `t-photos` contiene 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
+* `t-photos` contains 2 team photos (one official and one fun photo with all team members)
 
-- Foto formal
+- Formal Photo
 ![formal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/formal.jpg)
 
-De derecha a izquierda, Roderick Zamora, Sol Urieta, José Bernal
+From right to left, Roderick Zamora, Sol Urieta, José Bernal
 
-- Foto divertida
+- Funny Photo
 ![funny](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/funny.jpg)
 
-De derecha a izquierda, Sol Urieta, Roderick Zamora, José Bernal
+From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 
-- Ajustes de las ruedas
+- W1 wheel settings
 ![W1](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working.jpg)
 
-- Verificación del robot, y la programación
+- Robot verification, and W2 programming
 ![W2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-1.jpg)
 
-- Programando
+- Programming W3
 ![W3](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-2.jpg)
 
-* `v-photos` contiene 6 fotos del vehículo (de cada lado, desde arriba y desde abajo)
-
-
+* `v-photos` contains 6 photos of the vehicle (from each side, from above and below)
+  
 - Superior
 ![superior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
 
@@ -55,26 +54,26 @@ De derecha a izquierda, Sol Urieta, Roderick Zamora, José Bernal
 - Superior Posterior
 ![superiorposterior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/sp.jpg)
 
-- Lado diagonal derecho
+- Right diagonal side dd
 ![dd](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/dd.jpg)
 
-- Lado derecho
+- Right side d
 ![d](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/d.jpg)
 
-- Lado diagonal izquierdo
+- Left diagonal side
 ![di](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/di.jpg)
 
-- Lado izquierdo
+- left side i
 ![i](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/i.jpg)
 
-- Armando la base
-![armado-base](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base.jpg)
+- Assembling the base assembly-base
+![Assembling the base assembly-base](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base.jpg)
 
-- Armando la base
-![armado-base-2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base-2.jpg)
+- Setting up the base setting-base-2
+![Setting up the base setting-base-2](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base-2.jpg)
 
-- Armando la base, parte inferior
-![armado-base-inferior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-inferior.jpg)
+- Assembling the base, lower part assembly-base-bottom
+![Assembling the base, lower part assembly-base-bottom](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-inferior.jpg)
 
 - Armado de sistema de tracción
 ![traccion](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/traccion.jpg)
