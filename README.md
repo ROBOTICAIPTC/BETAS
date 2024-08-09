@@ -44,7 +44,30 @@ From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 ![W3](https://github.com/ROBOTICAIPTC/BETAS/blob/main/t-photos/working-2.jpg)
 
 * `v-photos` contains 6 photos of the vehicle (from each side, from above and below)
-  
+
+## Actualizacion con camara
+- Upper Side
+![uper](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/1.superior.jpg)
+
+- Front Side
+![front](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/2.frontal.jpg)
+
+- Back Side
+![back](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/3.posterior.jpg)
+
+- Left Side
+![su](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/4.izquierdo.jpg)
+
+- Right Side
+![right](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/5.derecho.jpg)
+
+- front huskylens
+![fronthl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/6.huskylens_posterior.jpg)
+
+- rear huskylens
+![rearhl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
+
+#### Modelo anterior
 - Superior
 ![superior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
 
