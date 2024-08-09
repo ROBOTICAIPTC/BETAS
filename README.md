@@ -45,7 +45,7 @@ From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 
 * `v-photos` contains 6 photos of the vehicle (from each side, from above and below)
 
-## Actualizacion con camara
+## Update with camera
 - Upper Side
 ![uper](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/1.superior.jpg)
 
@@ -61,20 +61,20 @@ From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 - Right Side
 ![right](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/5.derecho.jpg)
 
-- front huskylens
-![fronthl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/6.huskylens_posterior.jpg)
-
 - rear huskylens
-![rearhl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
+![rearthl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/6.huskylens_posterior.jpg)
 
-#### Modelo anterior
-- Superior
+- front huskylens
+![fronthl](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/7.huskylens_frontal.jpg)
+
+<!-- ## Previous model
+- Upper side
 ![superior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/superior.jpg)
 
-- Superior Frontal
+- Front side
 ![superiorfrontal](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/sf.jpg)
 
-- Superior Posterior
+- Upper Back Side
 ![superiorposterior](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/sp.jpg)
 
 - Right diagonal side dd
@@ -88,7 +88,7 @@ From rigth to left, Sol Urieta, Roderick Zamora, José Bernal
 
 - left side i
 ![i](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/i.jpg)
-
+ -->
 - Assembling the base assembly-base
 ![Assembling the base assembly-base](https://github.com/ROBOTICAIPTC/BETAS/blob/main/v-photos/armado-base.jpg)
 
@@ -174,6 +174,32 @@ o	Function: Color detection and line tracking
 
 o	Positioning: Can be placed in different parts of the robot 
 According to the need of the project
+
+•	The Huskylens
+
+### Function of the Vision Sensor Huskylens in Our Robot
+We are using the color recognition function and positioning it at the front to provide a good view of the environment.
+
+The Huskylens is a vision sensor with integrated artificial intelligence, designed to facilitate the development of projects requiring visual recognition, particularly among robotics enthusiasts.
+You can find this product at the following link:https://www.dfrobot.com/product-
+1922.html For the price of $54.90.
+
+
+#### Main Functions
+- Face Recognition: This function can identify and track faces.
+- Object Tracking: This function allows tracking specific moving objects.
+- Line Tracking: This function is designed to detect and follow lines.
+- Color Recognition: This function is designed to identify colors and track objects of a certain color.
+- QR Code Recognition: This function can scan and decode QR codes.
+- Shape Recognition: This function allows identifying and tracking simple geometric shapes.
+
+##### Technical Specifications
+- Processor: It uses a Kendryte K210 AI processor, which allows deep learning models to run directly on the device.
+- Camera Resolution: 2 megapixels, providing good image quality for most visual recognition applications.
+- Interface: Compatible with various communication protocols such as UART, I2C, and SPI, facilitating integration with microcontrollers like Arduino, Raspberry Pi, and others.
+- Display: 2-inch TFT screen that allows real-time visualization of what the camera is detecting and facilitates configuration.
+- Control Buttons: It has a pair of buttons for navigating through the menu and selecting desired functions without needing to connect to a computer.
+- Power Supply: It can be powered with 3.3V or 5V, making it compatible with most electronic systems.
 
 
 Software
